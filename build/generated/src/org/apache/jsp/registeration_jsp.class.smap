@@ -1,0 +1,18 @@
+SMAP
+registeration_jsp.java
+JSP
+*S JSP
+*F
++ 0 registeration.jsp
+registeration.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5,94:50
+5#1,45:144
+98#0,115:188
+5#2,168:303
+212#0,12:470
+*E

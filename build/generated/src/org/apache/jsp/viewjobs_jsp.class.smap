@@ -1,0 +1,18 @@
+SMAP
+viewjobs_jsp.java
+JSP
+*S JSP
+*F
++ 0 viewjobs.jsp
+viewjobs.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5,16:50
+5#1,45:66
+20#0,284:110
+5#2,168:394
+303#0,7:561
+*E

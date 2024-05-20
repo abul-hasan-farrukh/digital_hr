@@ -1,0 +1,207 @@
+.navigation
+{
+        font-family: poppins;
+}
+
+.navigation li a
+{
+        color: black;
+}
+
+.welcome h3
+{
+        font-family: poppins;
+        font-size: 50px;
+        font-weight: bold;
+        padding-top: 150px;
+        /* margin-left: -70px; */
+}
+
+.welcome  p
+{
+        font-family: poppins;
+        /* padding-left: 70px; */
+        padding-top: 20px;
+        font-size: 25px;
+}
+
+.registerformalign
+{
+        padding-top: 80px;
+        padding-left: 50px;
+        padding-right: 50px;
+        font-family: poppins;
+}
+
+.loginformalign
+{
+        padding-top: 120px;
+        padding-right: 70px;
+        padding-left: 70px;
+        font-family: poppins;
+}
+
+.responseform
+{
+        padding-top: 120px;
+        padding-right: 70px;
+        padding-left: 70px;
+        font-family: poppins;
+}
+
+.responseimgalign
+{
+        float: right;
+        padding-top: 100px;
+        /* width: 500px; */
+}
+
+.contactformalign
+{
+        padding-top: 100px;
+        padding-left: 50px;
+        padding-right: 50px;
+        font-family: poppins;
+}
+
+.imgalign
+{
+        float: right;
+        padding-top: 150px;
+        /* width: 500px; */
+}
+
+.buttonalign
+{
+        font-family: poppins;  
+        margin-left: 10px; 
+        margin-bottom: 15px;
+        padding-top: 5px; 
+        padding-left: 30px; 
+        padding-right: 30px;
+}
+
+.footer
+{
+        min-height: 100px;
+        font-family: poppins;
+        
+}
+
+.section
+{
+        height: 200px;
+        width: 200px;
+        margin: 0px auto;
+        border-radius: 50%;
+        overflow: hidden;
+        background-color: blueviolet;
+}
+
+.section img 
+{
+        width: 150%;
+}
+
+
+.smi
+{
+        list-style-type: none;
+}
+
+.smi li
+{
+        display: inline-block;
+        color: white;
+        background-color: black;
+        padding: 5px 10px;
+        border-radius: 50%;
+}
+
+.navitems
+{
+        margin-left: 620px;
+}
+
+.custnavitems
+{
+        margin-left: 590px;
+}
+
+.adminnavitems
+{
+        margin-left: 510px;
+}
+
+.footertext
+{
+    font-family: poppins;
+}
+
+.shadow {
+    box-shadow: 0 0 3px rgb(53 64 78 / 20%) !important;
+}
+.rounded {
+    border-radius: 5px !important;
+}
+.bg-light {
+    background-color: #f7f8fa !important;
+}
+ .btn-primary, .btn-outline-primary:hover, .btn-outline-primary:focus, .btn-outline-primary:active, .btn-outline-primary.active, .btn-outline-primary.focus, .btn-outline-primary:not(:disabled):not(.disabled):active, .badge-primary, .nav-pills .nav-link.active, .pagination .active a, .custom-control-input:checked ~ .custom-control-label:before, #preloader #status .spinner > div, .social-icon li a:hover, .back-to-top:hover, .back-to-home a, ::selection, #topnav .navbar-toggle.open span:hover, .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots.clickable .owl-dot:hover span, .watch-video a .play-icon-circle, .sidebar .widget .tagcloud > a:hover, .flatpickr-day.selected, .flatpickr-day.selected:hover, .tns-nav button.tns-nav-active, .form-check-input.form-check-input:checked {
+    background-color: #6dc77a !important;
+}
+
+.badge {
+    padding: 5px 8px;
+    border-radius: 3px;
+    letter-spacing: 0.5px;
+    font-size: 12px;
+}
+
+.btn-primary, .btn-outline-primary:hover, .btn-outline-primary:focus, .btn-outline-primary:active, .btn-outline-primary.active, .btn-outline-primary.focus, .btn-outline-primary:not(:disabled):not(.disabled):active {
+    box-shadow: 0 3px 7px rgb(109 199 122 / 50%) !important;
+}
+.btn-primary, .btn-outline-primary, .btn-outline-primary:hover, .btn-outline-primary:focus, .btn-outline-primary:active, .btn-outline-primary.active, .btn-outline-primary.focus, .btn-outline-primary:not(:disabled):not(.disabled):active, .bg-soft-primary .border, .alert-primary, .alert-outline-primary, .badge-outline-primary, .nav-pills .nav-link.active, .pagination .active a, .form-group .form-control:focus, .form-group .form-control.active, .custom-control-input:checked ~ .custom-control-label:before, .custom-control-input:focus ~ .custom-control-label::before, .form-control:focus, .social-icon li a:hover, #topnav .has-submenu.active.active .menu-arrow, #topnav.scroll .navigation-menu > li:hover > .menu-arrow, #topnav.scroll .navigation-menu > li.active > .menu-arrow, #topnav .navigation-menu > li:hover > .menu-arrow, .flatpickr-day.selected, .flatpickr-day.selected:hover, .form-check-input:focus, .form-check-input.form-check-input:checked, .container-filter li.active, .container-filter li:hover {
+    border-color: blue;
+}
+.btn-primary, .btn-outline-primary:hover, .btn-outline-primary:focus, .btn-outline-primary:active, .btn-outline-primary.active, .btn-outline-primary.focus, .btn-outline-primary:not(:disabled):not(.disabled):active, .badge-primary, .nav-pills .nav-link.active, .pagination .active a, .custom-control-input:checked ~ .custom-control-label:before, #preloader #status .spinner > div, .social-icon li a:hover, .back-to-top:hover, .back-to-home a, ::selection, #topnav .navbar-toggle.open span:hover, .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots.clickable .owl-dot:hover span, .watch-video a .play-icon-circle, .sidebar .widget .tagcloud > a:hover, .flatpickr-day.selected, .flatpickr-day.selected:hover, .tns-nav button.tns-nav-active, .form-check-input.form-check-input:checked {
+    background-color: blue;
+}
+.btn {
+    padding: 8px 20px;
+    outline: none;
+    text-decoration: none;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    transition: all 0.3s;
+    font-weight: 600;
+    border-radius: 5px;
+}
+.btn-primary {
+    background-color: blue;
+    border: 1px solid #6dc77a !important;
+    color: #fff !important;
+    box-shadow: 0 3px 7px rgb(109 199 122 / 50%);
+}
+
+a {
+text-decoration:none;    
+}  
+
+.jobstext
+{
+    font-family: poppins;
+}
+
+.openposition
+{
+    font-family: poppins;
+}
+
+.webdesignbutton
+{
+    background-color: blue;
+}
+
+/* Dashboard CSS - Start*/
+
